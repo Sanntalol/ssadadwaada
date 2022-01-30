@@ -1,0 +1,22 @@
+div {
+    background-color: aqua;
+    text-align: center;
+    border: brown;
+    border-radius: 15px;
+}
+
+img {
+    width: 200px;
+    border: 2px solid blue;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+letter-spacing: 18px;
+color: blueviolet;
+text-decoration: underline;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: smaller;
+}
